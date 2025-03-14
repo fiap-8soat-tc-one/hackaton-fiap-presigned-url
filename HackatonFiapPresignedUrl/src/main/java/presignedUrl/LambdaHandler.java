@@ -1,4 +1,4 @@
-package com.fiap.hackaton.functions;
+package presignedUrl;
 
 import com.amazonaws.HttpMethod;
 import com.amazonaws.services.lambda.runtime.Context;
